@@ -1,0 +1,9 @@
+.DS_Store
+build
+dist
+env
+*.pyc
+*.egg
+*.egg-info
+out/*
+!out/.gitkeep

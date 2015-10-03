@@ -32,8 +32,8 @@ A new file will magically appear in the `out` folder.
 
 Here are some examples
 
-![Example 1](http://i59.tinypic.com/2n8bebq.jpg)
-![Example 2](http://i60.tinypic.com/2wdx8oj.jpg)
+![Example 1](http://i57.tinypic.com/2cyl2qe.jpg)
+![Example 2](http://i61.tinypic.com/23m25ax.jpg)
 
 Calculate X values
 ------------------

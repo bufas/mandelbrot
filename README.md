@@ -30,6 +30,10 @@ mandelbrot gen-image 1 x_f2_w350.json
 
 A new file will magically appear in the `out` folder.
 
+Here are some examples
+
+![Example 1](http://i59.tinypic.com/2n8bebq.jpg)
+![Example 2](http://i60.tinypic.com/2wdx8oj.jpg)
 
 Calculate X values
 ------------------

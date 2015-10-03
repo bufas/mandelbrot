@@ -30,8 +30,6 @@ mandelbrot gen-image 1 x_f2_w350.json
 
 A new file will magically appear in the `out` folder.
 
-Here are some examples
-
 ![Example 1](http://i57.tinypic.com/2cyl2qe.jpg)
 ![Example 2](http://i61.tinypic.com/23m25ax.jpg)
 
@@ -64,7 +62,6 @@ mandelbrot gen-image --help
 
 TODO
 ====
-  - Upload sample images
   - Improve performance of `calc-x`
   - Improve performance of `gen-image`
   - Remove Pillow dependency
